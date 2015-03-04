@@ -15,5 +15,4 @@ You will have to use the update-rc.d script to set it to start on boot if you ar
 
 The install script is available if you don't want to download the image.
 
-The image can be downloaded here:
-https://docs.google.com/file/d/0Bx2uFItyJkdlcVBIVjZjRDhjYmc/edit?usp=sharing
+Rich Shumaker Note - I created a smaller image using Minibian - Link to File - https://drive.google.com/file/d/0B2w97gVYBA8wYWNxQm1pVUFYSG8/view?usp=sharing
